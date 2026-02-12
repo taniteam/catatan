@@ -1,0 +1,5 @@
+{
+  "name": "Catatan Keuangan Perusahaan",
+  "description": "A professional financial recording system for companies with multi-account management, staff roles, and audit logging.",
+  "requestFramePermissions": []
+}
